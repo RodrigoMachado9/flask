@@ -3,4 +3,4 @@ flask
 
 
 patterns mtv
-`model, t `
+`model, template, view`
