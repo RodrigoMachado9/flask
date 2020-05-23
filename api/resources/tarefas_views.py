@@ -1,7 +1,7 @@
 from flask_restful import Resource
 
 
-class TarefaList(Resource):
+class TaskList(Resource):
     def get(self):
         return {
             "status": "succes",
