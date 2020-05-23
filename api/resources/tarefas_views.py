@@ -1,16 +1,16 @@
 from flask_restful import Resource
 
 
-class TarefaList(Resource):
+class TaskList(Resource):
     def get(self):
         return {
             "status": "succes",
-            "message": "hello-world get"
+            "message": ""
         }
 
 
     def post(self):
         return {
             "status": "success",
-            "message": "posted is ok"
+            "message": ""
         }
