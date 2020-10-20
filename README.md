@@ -2,7 +2,7 @@
 flask
 
 patterns mtv
-``model, template, view``
+``model, view, template``
 
 # use flask cli, run bash or the command
 ``
